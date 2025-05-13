@@ -1,0 +1,9 @@
+.vs/
+PublishClient/bin/
+PublishClient/obj/
+rabbitmq/obj/
+Subscrible/obj/
+Subscrible/bin/
+rabbitmq-message/bin/
+rabbitmq/bin/
+rabbitmq-message/obj/
